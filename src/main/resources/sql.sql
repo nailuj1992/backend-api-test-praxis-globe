@@ -1,5 +1,6 @@
 -- Crear schema de DB
 CREATE SCHEMA `test_praxis` ;
+use  `test_praxis` ;
 
 -- Tabla Producto
 CREATE TABLE Producto (
